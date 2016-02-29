@@ -1,0 +1,75 @@
+/* Empty. Add your own CSS if you like */
+
+.button1 {
+  display: inline-block;
+  padding: 15px 25px;
+  margin-top: 10px;
+  font-size: 24px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #F5DB47;
+  border: 2px;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+}
+
+.button1:hover {background-color: #F2BD0C}
+
+.button1:active {
+  background-color: #F2BD0C;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+
+.button2 {
+  display: inline-block;
+  padding: 15px 25px;
+  margin-top: 10px;
+  font-size: 24px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #3B16F5;
+  border: 2px;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+}
+
+.button2:hover {background-color: #1F0699}
+
+.button2:active {
+  background-color: #1F0699;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+
+.button3 {
+  display: inline-block;
+  padding: 15px 25px;
+  margin-top: 10px;
+  font-size: 24px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #FC4117;
+  border: 2px;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+}
+
+.button3:hover {background-color: #D62902}
+
+.button3:active {
+  background-color: #D62902;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+
+
